@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Player</OriginalElement>
+  <nodes>
+    <node x="555.0" y="505.0">Huluwa</node>
+    <node x="185.0" y="516.5">Grandpa</node>
+    <node x="272.5" y="77.5">java.lang.FunctionalInterface</node>
+    <node x="347.0" y="359.0">Player</node>
+    <node x="0.0" y="516.5">Xiezijing</node>
+    <node x="370.0" y="516.5">XIaolouluo</node>
+    <node x="740.0" y="516.5">Shejing</node>
+    <node x="464.5" y="235.0">Creature2D</node>
+    <node x="291.0" y="246.0">java.lang.Runnable</node>
+    <node x="460.5" y="0.0">Thing2D</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Xiezijing" target="Player">
+      <point x="0.0" y="-26.0" />
+      <point x="82.5" y="475.0" />
+      <point x="368.1" y="475.0" />
+      <point x="-84.39999999999998" y="48.0" />
+    </edge>
+    <edge source="Creature2D" target="Thing2D">
+      <point x="0.0" y="-37.0" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-26.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="Shejing" target="Player">
+      <point x="0.0" y="-26.0" />
+      <point x="822.5" y="475.0" />
+      <point x="536.9" y="475.0" />
+      <point x="84.39999999999998" y="48.0" />
+    </edge>
+    <edge source="Grandpa" target="Player">
+      <point x="0.0" y="-26.0" />
+      <point x="267.5" y="485.0" />
+      <point x="410.3" y="485.0" />
+      <point x="-42.19999999999999" y="48.0" />
+    </edge>
+    <edge source="Huluwa" target="Player">
+      <point x="0.0" y="-37.5" />
+      <point x="637.5" y="485.0" />
+      <point x="494.7" y="485.0" />
+      <point x="42.19999999999999" y="48.0" />
+    </edge>
+    <edge source="Player" target="java.lang.Runnable">
+      <point x="-52.75" y="-48.0" />
+      <point x="399.75" y="334.0" />
+      <point x="356.5" y="334.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="Player" target="Creature2D">
+      <point x="52.75" y="-48.0" />
+      <point x="505.25" y="334.0" />
+      <point x="548.5" y="334.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="XIaolouluo" target="Player">
+      <point x="0.0" y="-26.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="284.0" y="253.5" />
+  <SelectedNodes>
+    <node>Xiezijing</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
